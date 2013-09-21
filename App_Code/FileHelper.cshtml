@@ -1,0 +1,18 @@
+﻿@using System.IO
+
+@functions {
+    public static string[] GetAllPagesInFolder(string virtualPath, string searchPattern) {
+        string physicalPath = Server.MapPath(virtualPath);
+        
+        // childrenFiles 是物理路径。需要将其转换为虚拟路径
+        string[] childrenFiles = Directory.EnumerateFiles(physicalPath, searchPattern, SearchOption.TopDirectoryOnly).ToArray();
+        string[] childrenVirtualPaths = new string[childrenFiles.Length];
+        
+        for (int i = 0; i < childrenFiles.Length; ++i) {
+            // 将物理路径转换为虚拟路径
+            childrenVirtualPaths[i] = childrenFiles[i].Replace(Request.PhysicalApplicationPath, "~/").Replace(Path.DirectorySeparatorChar, '/');
+        }
+        
+        return childrenVirtualPaths;
+    }
+}

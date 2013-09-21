@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="UTF-8">
+        <title>@Page.Title</title>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link rel="stylesheet" href="~/Content/jquery.mobile-1.0.min.css" />
+        <link rel="stylesheet" href="~/Content/Site.mobile.css" />
+        <script src="~/Scripts/modernizr-2.6.2.js"></script>
+        <script src="~/Scripts/jquery-1.8.2.min.js"></script>
+        <script src="~/Scripts/jquery.mobile-1.0.min.js"></script>
+
+        @RenderSection("head", required: false)
+    </head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+        <div id="page" class="group" data-role="page">
+            <div data-role="header" data-theme="c">
+
+                <div data-role="header" data-theme="c"> 
+	                <h1>你的姓名</h1> 
+                </div>
+
+                <div class="intro">
+                    <p>写点儿关于你的事儿吧。既然这是个人站点，请告诉我们一些有趣的事儿。
+                    一些真知灼见。一些深邃的思想。谈谈你的饮食经，或者是在海滩上远足的经历?</p>
+                </div>
+
+
+
+                <div id="nav" data-role="navbar">
+                    <ul>
+                        @foreach (var contentPage in App.ContentPages) {
+                            if (contentPage.Title == Page.Title) {
+                                <li><a href="~/ContentPage/@contentPage.Id" title="@contentPage.Header" class="ui-btn-active">@contentPage.Header</a></li>
+                            } else {
+                                <li><a href="~/ContentPage/@contentPage.Id" title="@contentPage.Header">@contentPage.Header</a></li>
+                            }
+                        }
+                    </ul>
+                </div>
+
+
+            </div>
+
+
+            <section>                
+                @RenderBody()
+            </section>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,27 @@
+﻿@{
+    //示例: http://www.zdnet.com/blog/microsoft/rss
+    string blogUrl = "";
+}
+
+@if (String.IsNullOrEmpty(blogUrl)) {
+    <p>
+        欢迎进入 RSS 页! 请查看 Contents/_Blog.cshtml 页，请为你要显示的博客
+        提供一个 URL。请注意，此页仅支持 
+        RSS 2.0 和 Atom 1.0 源。
+    </p>
+} else {
+    var feedItems = BlogHelper.GetFeedItems(blogUrl);
+    foreach (var item in feedItems) {
+        <article class="newsitem">
+            <div class="newsbody">
+                <header>
+                    <h1>@item.Title</h1>
+                    <h2>@item.Author</h2>
+                </header>
+                <p class="pubdate">发布时间: <span>@item.PublishedDate.ToLocalTime().DateTime</span></p>
+                <p>@Html.Raw(item.HtmlContent)</p>
+                <a href="@item.WebUrl" target="_blank" data-role="button">阅读详细信息</a>
+            </div>
+        </article>
+    }
+}

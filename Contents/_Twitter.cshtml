@@ -1,0 +1,42 @@
+﻿@{
+    // 提供你的 Twitter 屏幕名称
+    string screenName = "";
+}
+
+@if (String.IsNullOrEmpty(screenName)) {
+    <p>
+        欢迎访问 Twitter 页! 请查看 Contents/_Twitter.cshtml 页，并填写你的 Twitter 屏幕名称。
+    </p>
+} else {
+    var tweets = TwitterHelper.GetUserTimelime(screenName);
+    if (tweets.Count > 0) {
+        <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+        foreach (var item in tweets) {
+            <article class="twitteritem">
+                <div class="twitterbody">
+                    <header>
+                        <h1>@item.Title</h1>
+                    </header>
+                    <p>@Html.Raw(item.HtmlContent)</p>
+                    <p class="pubdate">已发推 <span>@item.PublishedDate.ToLocalTime().DateTime.ToShortTimeString()</span></p>
+                    <ul class="twitterActions hide-from-mobile">
+                        @TwitterHelper.ReplyToTweet(item.Id)
+                        @TwitterHelper.Retweet(item.Id)
+                        @TwitterHelper.FavoriteTweet(item.Id)
+                    </ul>
+                </div>
+
+                <!-- jquery mobile 的独立链接集 -->
+                <div class="twitterActions hide-from-desktop" data-role="controlgroup" data-type="horizontal" data-mini="true">
+                    @TwitterHelper.ReplyToTweet(item.Id)
+                    @TwitterHelper.Retweet(item.Id)
+                    @TwitterHelper.FavoriteTweet(item.Id)
+                </div>
+            </article>
+
+        }
+    } else {
+        <p>联系 Twitter 时出现问题: 你可能在代理后面，或者暂时达到了请求限制。</p>
+    }
+}

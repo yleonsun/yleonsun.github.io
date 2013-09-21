@@ -1,0 +1,26 @@
+﻿@{
+    //设置 Flickr 参数
+    string flickrKey = "961df4ce8db72859cf16d92789ef6b02";
+    string flickrUserName = "wangzi2";
+}
+
+@if (String.IsNullOrEmpty(flickrKey) || String.IsNullOrEmpty(flickrUserName)) {
+    <p>
+        欢迎访问照片页!
+    </p>
+} else {
+    var photos = Flickr.GetPhotos(flickrKey, flickrUserName);
+    <h1>我的 Flickr 照片</h1>
+    <ul class="thumbnails">
+        @foreach (var item in photos) {
+            if (item.PhotoUrl != null) {
+                <li>
+                    <a href="@item.WebUrl" target="_blank">
+                        <img src="@item.PhotoUrl" alt="@item.Title 的照片" class="thumbnail-border"/>
+                        <span class="image-overlay">@item.Title</span>
+                    </a>
+                </li>
+            }
+        }
+    </ul>
+}
