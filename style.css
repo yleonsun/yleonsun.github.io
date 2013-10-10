@@ -6,7 +6,7 @@ body {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	color: #000000;
-	background-color:#ffedcc;
+	background: #f5f5f5 url(bk.gif);
 }
 *
 {
@@ -19,7 +19,7 @@ padding:0px;
 {
 
 display:block;
-width:800px;
+width:1038px;
 clear:both;
 margin:20px auto 0 auto;	
 }
@@ -110,7 +110,7 @@ padding-right:20px;
 {
 display:block;
 float:left;
-width:562px;
+width:800px;
 padding-left:12px;
 }
 
@@ -120,16 +120,16 @@ padding-left:12px;
 .mainbox
 {
 display:block;
-width:562px;
+width:800px;
 }
 
 .mainbox .mainbox_top
 {
-width:562px;
+width:800px;
 /*height:114px;*/
 background-image:url(images/header.png);
 background-repeat:no-repeat;
-background-color:#FFF;
+/*background-color:#FFF;*/
 }
 
 .mainbox .mainbox_top h1
