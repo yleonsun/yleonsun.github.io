@@ -1,9 +1,20 @@
-<html>
-You've reached Zi Wang's homepage.. This site is under construction. Stay tuned!
+---
+layout: default
+---
 
-Have a look at our former projects:
+<div class="home">
 
-http://zi-wang.com/gctm/
+  <h1>Posts</h1>
 
-http://zi-wang.com/dnmf/
-</html>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
