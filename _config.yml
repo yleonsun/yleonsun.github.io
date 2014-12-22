@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Zi Wang's Homepage
 email: ziw@mit.edu
-description: "lala"
+description: "Zi Wang's Homepage"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -12,18 +12,6 @@ color:
   secondary: f799e7 
   secondary-dark: 6e6e99
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
