@@ -278,8 +278,8 @@ header {
 header .intro-text {
     padding-top: 0px;
     padding-bottom: 0px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 
 header .intro-text .intro-lead-in {
