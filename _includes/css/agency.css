@@ -276,10 +276,10 @@ header {
 }
 
 header .intro-text {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-left: 5em;
-    padding-right: 5em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-left: 0em;
+    padding-right: 0em;
 }
 
 header .intro-text .intro-lead-in {
@@ -292,6 +292,8 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
     font-weight: 700;
