@@ -1,6 +1,19 @@
+
 <meta charset="utf-8">
 <title>Scalable Inference for Logistic-Normal Topic Models</title>
 <link rel="stylesheet" type="text/css" href="style-index.css" />
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?86ae30edb073688843faeb8b4226d9ae";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
 <h1>Scalable Inference for Logistic-Normal Topic Models</h1>
 <p>
 <a href="http://ml-thu.net/~jianfei/">Jianfei Chen</a>, <a href="http://www.ml-thu.net/~jun/">Jun Zhu</a>, <a href="http://www.ml-thu.net/~wangzi">Zi Wang</a>, <a href="http://www.cs.cmu.edu/directory/xun-zheng">Xun Zheng</a> and <a href="http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101226104412516277601/20101226104412516277601_.html">Bo Zhang</a>
@@ -20,11 +33,16 @@ Logistic-normal topic models can effectively discover correlation structures amo
 <p>
 <a href="scalable-ctm.pdf">Download</a> (1.85 MB)
 </p>
+<h2>Code</h2>
+<p>
+<a onclick="_hmt.push(['_trackEvent', 'sourcecode', 'download', 'ScaCTM.tar.gz'])" href="http://ml-thu.net/~jianfei/static/ScaCTM.tar.gz">Download</a> (0.36 MB)
+</p>
+<p>
+<a href="https://github.com/cjf00000/ScaCTM">GitHub</a>
+</p>
 <h2>Approximate BibTex Entry</h2>
 
-<p class="bibtex">@inproceedings{chen_nips_2013,<br>&nbsp;&nbsp;&nbsp;&nbsp;Year = {2013},<br>&nbsp;&nbsp;&nbsp;&nbsp;Booktitle = {NIPS 2013},<br>&nbsp;&nbsp;&nbsp;&nbsp;Author = {
-Jianfei Chen, Jun Zhu, Zi Wang, Xun Zheng, Bo Zhang
-},<br>&nbsp;&nbsp;&nbsp;&nbsp;Title = {Scalable Inference for Logistic-Normal Topic Models}<br>}</p>
+<p class="bibtex">@inproceedings{chen_nips_2013,<br>&nbsp;&nbsp;&nbsp;&nbsp;Year = {2013},<br>&nbsp;&nbsp;&nbsp;&nbsp;Booktitle = {Advances in Neural Information Processing Systems},<br>&nbsp;&nbsp;&nbsp;&nbsp;Author = {Chen, Jianfei and Zhu, Jun and Wang, Zi and Zheng, Xun and Zhang, Bo},<br>&nbsp;&nbsp;&nbsp;&nbsp;Title = {Scalable Inference for Logistic-Normal Topic Models}<br>}</p>
 <h2>Demonstration</h2>
 <p><aside><a style="position:relative;top:-30px;" href="ctmvis.html" target="_blank">Open in a new window.</a></aside></p>
 <iframe src="ctmvis.html" width="800px" height="495px" marginwidth="50" marginheight="50" scrolling="no"></iframe>
@@ -37,5 +55,5 @@ On the top layer, the size of each node is proportional to the topics contained 
 With 40 machines, our parallel Gibbs sampler finishes the training in 2 hours, which means that we are able to process real world corpus in considerable speed.
 </p>
 <footer>
-<aside>November 22, 2013</aside>
+<aside>Aug 27, 2015</aside>
 </footer>

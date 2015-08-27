@@ -48,11 +48,15 @@ a.active {
 
 h1,
 h2,
-h3,
+h3 {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -64,7 +68,9 @@ h6 {
 .bg-light-gray {
     background-color: #f7f7f7;
 }
-
+.bg-light-blue {
+    background-color: #D3EBFA;
+}
 .bg-darkest-gray {
     background-color: #222;
 }
@@ -231,6 +237,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 5px 0;
@@ -276,18 +283,18 @@ header {
 }
 
 header .intro-text {
-    padding-top: 5em;
-    padding-bottom: 5em;
-    padding-left: 0em;
-    padding-right: 0em;
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 5em;
+    padding-right: 5em;
 }
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 5px;
+    font-size: 22px;
     font-style: italic;
-    line-height: 10px;
+    line-height: 22px;
 }
 
 header .intro-text .intro-heading {
