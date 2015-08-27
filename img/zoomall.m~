@@ -1,0 +1,6 @@
+files = dir('pub');
+
+for i=4:length(files)
+    zoompic(['pub/' files(i).name], 200, 200);
+end
+quit
