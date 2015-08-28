@@ -285,8 +285,6 @@ header {
 header .intro-text {
     padding-top: 120px;
     padding-bottom: 100px;
-    padding-left: 5em;
-    padding-right: 5em;
 }
 
 header .intro-text .intro-lead-in {
@@ -299,10 +297,10 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 55px;
+    margin-right: 55px;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
+    font-size: 5px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -325,7 +323,7 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         background-color=rgba(0,0,0,0.5);
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 15px;
+        font-size: 5px;
         font-weight: 700;
         line-height: 15px;
     }
