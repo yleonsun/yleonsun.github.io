@@ -5,32 +5,36 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Zi Wang, and I am a research scientist at Google Brain.
+Hello! My name is Leon, and I am a MD-PhD candidate at the Boston University School of Medicine interested in pursuing a career as a physician scientist in the field of interventional radiology.
 
 
 
 ### News
-- [Jul 2021] Enjoyed speaking at [VMLW](https://workshops.eeml.eu/)! [Slides available now.](https://zi-wang.com/pub/bayesopt_tutorial.pdf)
-- [Jun 2021] Hosted [2021 Google BayesOpt Speaker Series](https://www.youtube.com/playlist?list=PLSIUOFhnxEiAxb-3cR_dms4PYr6voVcER).
-- [Jan 2020] Got a PhD from MIT. 
-- [May 2019] NEW ACHIEVEMENT: honored to be part of ["RSS Pioneers 2019"](http://rss2019.informatik.uni-freiburg.de/RSS_Pioneers_2019_Camera_Ready/63.pdf), a cohort of the world’s top early career researchers in robotics. 
-- [Apr 2019] NEW ACHIEVEMENT: honored to be awarded ["MIT Graduate Women of Excellence"](https://twitter.com/ziwphd/status/1123022290403328000), in recognition of my leadership and service, dedication to mentoring, and drive to improve the student experience. 
-- [Feb 2019] [Paper accepted at ICLR](http://lis.csail.mit.edu/pubs/xia-iclr19.pdf), congrats to our MEng alumna and my fabulous mentee, Victoria Xia!
-- [Jan 2019] [Paper accepted at IJRR](https://arxiv.org/pdf/1807.09962.pdf), congrats to my colleague and ICRA best paper award recipient, [Beomjoon Kim](http://people.csail.mit.edu/beomjoon/)!
-- [Sep 2018] [Paper accepted at NIPS 2018 as spotlight.](https://ziw.mit.edu/meta_bo/)
-- [Jul 2018] NEW ACHIEVEMENT: ["2018 Rising Star in EECS"](https://risingstars18-eecs.mit.edu/participant-wang-zi/).
-- [Jun 2018] [Paper accepted at IROS 2018.](https://ziw.mit.edu/projects/kitchen2d/)
-- [Dec 2017] [Paper accepted at AISTATS 2018.](http://lis.csail.mit.edu/pubs/wang-aistats18.pdf)
-- [Jul 2017] NEW ACHIEVEMENT: I interned at [UBER ATG](https://www.uber.com/info/atg/) working on [safe, reliable and intelligent autonomous driving systems with both the Prediction Team and the Motion Planning Team](https://www.uber.com/info/atg/technology/). 
-- [May 2017] [Two papers accepted at ICML 2017.](https://ziw.mit.edu/publications/#2017)
-- [Jan 2017] [Paper accepted at ICRA 2017.](https://ziw.mit.edu/projects/mlp/)
-- [Apr 2016] [Oral presentation and zero-th time Best Paper Award nominee at SIGTBD: Motion Planning using Naturally Annoying Grammars (NAGs).](https://ziw.mit.edu/pub/sigtbd2016.pdf) 
-- [Feb 2016] NEW ACHIEVEMENT: "Master of Science" in Electrical Engineering and Computer Science.
-- [Dec 2015] [Paper accepted as oral presentation at AISTATS 2016.](https://ziw.mit.edu/projects/gp-est/)
-- [Aug 2015] I TA-ed [6.883 Advanced Machine Learning  —  Learning with Discrete Structure](http://people.csail.mit.edu/stefje/fall15/index.html).
+- [Sep, 2021] Excited to attend the [Radiology Interventions Safety, Quality, and Complications Symposium (RISQCS)](https://www.bucme.org/live/12827) to learn about how learning from complications can save patient lives in the field of interventional radiology.
+- [Aug, 2021] Honored to receive the 'Radiology Research Fellowship' at Boston University School of Medicine to research obstacles for ethnic, racial, gender diversity and inclusion in interventional radiology!
+- [Aug, 2021] [Paper accepted at American Journal of Respiratory Cell and Molecular Biology](https://doi.org/10.1165/rcmb.2020-0259OC). It's a pleasure to share a part of my PhD dissertation work with the scientific community. titled, “Heterogeneity in Human iPSC-derived Alveolar Epithelial Type II Cells Revealed with ABCA3/SFTPC Reporters.” Thank you to all the wonderful collaborators over the years who made this possible! There is more to come!
+- [May, 2020] Excited to continue with my third year of medical training at Boston University School of Medicine! 
+- [Apr, 2020] Successfully defended PhD dissertation titled: “The role of ATP Binding Cassette A3 (ABCA3) in health and disease using pluripotent stem cell-derived type II alveolar epithelial cells”
+- [Jan, 2020] [Paper accepted at Cell Stem Cell](http://yleonsun.com/pub_post_nonconfid/1-s2.0-S1934590919305272-main.pdf) Honored to contribute as a co-author in our most recent publication titled: Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors.
+- [Sep, 2019] Excited to talk at the NHLBI Progenitor Cell Translational Consortium (PCTC)
+- [Aug, 2019] Honored to receive the NIH NHLBI [PCTC Jump Start Grant](https://translationalcells.org/content/pctc-%E2%80%9Cjump-start%E2%80%9D-awards) for recognition of dedication to excellence in research in the field of regenerative medicine.
+- [Aug, 2018] Excited to talk at the FASEB conference: Lung in Health and Disease, St Bonaventure, NY. [Slides now available.](/talk_slides/Yuliang_Leon_Sun_FASEB_2018_final.pdf)
+- [Jun, 2018] Honored to receive the 4-year [National Research Service Award (Parent F30)](https://researchtraining.nih.gov/programs/research-education/F30) from the NIH in recognition of my research and potential as a future principle investigator!
+- [May, 2017] Received Poster Award for the CTSI Symposium, BU clinical and Translational Science Institute. [Poster now available](/pub_post_nonconfid/Yuliang_Sun_CTSI_Poster_presentation_monitor_37_final.pdf)
+- [Mar, 2017] [Paper accepted at Journal of Experimental Botany] )(https://doi.org/10.1093/jxb/erx103)
+- [Nov, 2016] Excited to talk @ Sanford Consortium for Regenerative Medicine, La Jolla, CA. [Slides now available.](/talk_slides/chILD_2017_San_Diego_ppt_final.pdf)
+- [May, 2016] Abstract selected for travel award at the Rare Lung Disease Consortium!
+- [Jul, 2016] Honored to be selected as a TL1-funded trainee by the Boston University Clinical and Translational Science Institute.
+- [Jun, 2016] Excited to begin my PhD training at the [Center for Regenerative Medicine (CReM)](https://www.bu.edu/dbin/stemcells/) of Boston University School of Medicine and Boston Medical Center under my mentor, [Dr. Darrell Kotton, MD](https://www.bumc.bu.edu/kottonlab/), on building stem-cell derived disease model for childhood interstitial lung disease!
+- [Aug, 2014] Excited to begin my training as a future physician scientist at Boston University School of Medicine! #MDPhD
+- [May, 2014] Graduated with distinction in Biochemistry. What an unforgettable 4-years at UW-Madison! Thank you!
+- [Mar, 2013] Honored to receive the [Summer Cambridge and Oxford Research Experience Award](https://biochem.wisc.edu/score)! Looking forward to exciting research @Gurdon Institute, Cambridge University, UK!
+- [Jan, 2013] [Paper accepted at Plant Physiology](http://yleonsun.com/pub_post_nonconfid/plphys_v161_3_1529.pdf)
+- [Jun, 2012] Excited to give my first plenary talk at the Botany 2012 conference!
+- [May, 2012] Honored to be selected as a Hilldale Research Fellow, @UW- Madison.
 
 
 
 ### Contact
-Email: wangzi 'at' google 'dot' com
+Email: ysun35 'at' bu 'dot' edy
 
