@@ -36,5 +36,5 @@ Hello! My name is Leon, and I am a MD-PhD candidate at the Boston University Sch
 
 
 ### Contact
-Email: ysun35 'at' bu 'dot' edy
+Email: ysun35 'at' bu.edu
 
