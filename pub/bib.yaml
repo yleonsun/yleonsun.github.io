@@ -1,28 +1,44 @@
 - ENTRYTYPE: journal
-  ID: wangIJRR2020
-  author: Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez
-  booktitle: International Journal of Robotics Research (IJRR)
-  title: Learning compositional models of robot skills for task and motion planning
-  url: https://arxiv.org/pdf/2006.06444.pdf
-  img: /images/pub/ltamp.png
-  year: '2020'
-- ENTRYTYPE: inproceedings
-  ID: xiaICLR2019
-  author: Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling
-  booktitle: International Conference on Learning Representations (ICLR)
-  title: Learning sparse relational transition models
-  url: http://lis.csail.mit.edu/pubs/xia-iclr19.pdf
-  img: /images/pub/spare.png
-  year: '2019'
+  ID: SunNon-Submitted
+  author: Yuliang L Sun, Jennifer Wambach, Hillary Heins, Ping Yang, Carlos Villacorta-Martin, Anne Hinds, F Sessions Cole, Darrell N Kotton
+  booktitle: Manuscript in Preparation
+  title: Disease modeling of childhood interstitial lung disease caused by ABCA3 mutations in iPSC-derived iAEC2s.
+  url: 
+  img: 
+  year: '2021'
 - ENTRYTYPE: journal
-  ID: kimIJRR2019
-  author: Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomás Lozano-Pérez
-  booktitle: International Journal of Robotics Research (IJRR)
-  title: Learning to guide task and motion planning using score-space representation
-  url: https://arxiv.org/pdf/1807.09962.pdf
-  img: /images/pub/score.png
-  year: '2019'
-- ENTRYTYPE: inproceedings
+  ID: SunRedJournal
+  author: Yuliang L Sun, Killian Hurley, Carlos Villacorta-Martin, Jessie Huang, Anne Hinds, Krithi Gopalan, Ignacio S Caballero, Scott J Russo, Joseph A Kitzmiller, Jeffrey A Whitsett, Michael F Beers, Darrell N Kotton
+  booktitle: American Jouornal of Respiratory Cell and Molecular Biology
+  title: Heterogeneity in Human iPSC-derived Alveolar Epithelial Type II Cells Revealed with ABCA3/SFTPC Reporters
+  url: https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC
+  img: 
+  year: '2021'
+- ENTRYTYPE: BookChapter
+  ID: ylsIRdiversity
+  author: Higgins, MCSS., Sun, Y.L., Rochon, PJ., Deville, C
+  booktitle: Submitted book chapter, under review
+  title: Interventional Radiology, Workforce Diversity in North America.
+  url: 
+  img: 
+  year: '2021'
+- ENTRYTYPE: PhDdissertation
+  ID: YLSPhDdissertation
+  author: Yuliang Leon Sun
+  booktitle: PhD Dissertation
+  title: RTHE ROLE OF ATP BINDING CASSETTE A3 (ABCA3) IN HEALTH AND DISEASE USING PLURIPOTENT STEM CELL-DERIVED TYPE II ALVEOLAR EPITHELIAL CELLS
+  url: 
+  img: 
+  year: '2020'
+  - ENTRYTYPE: journal
+  ID: KHCellStemCell
+  author: Hurley, K., Ding, J., Villacorta-Martin, C., Herriges, M.J., Jacob, A., Vedaie, M., Alysandratos, K.D., Sun, Y.L., Lin, C., Werder, R.B., Huang, J., Wilson, A.A., Mithal, A., Mostoslavsky, G., Oglesby, I., Caballero, I.S., Guttentag, S.H., Ahangari, F., Kaminski, N., Rodriguez-Fraticelli, A., Camargo, F., Bar-Joseph, Z., Kotton, D.N
+  booktitle: Cell Stem Cell
+  title: Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors. Cell Stem Cell
+  url: https://www.sciencedirect.com/science/article/pii/S1934590919305272
+  img: 
+  year: '2020'
+- ENTRYTYPE: poster
   ID: wangNIPS2018
   author: Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling
   booktitle: Advances in Neural Information Processing Systems (NIPS)
