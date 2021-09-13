@@ -1,2 +1,2 @@
-# my personal website
+# Leon's personal website
 Adapted from Minimal Mistakes.
