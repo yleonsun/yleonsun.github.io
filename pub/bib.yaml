@@ -81,7 +81,7 @@ interstitial lung disease
   img: 
   PDF: /pub_post_nonconfid/Yuliang_Sun_CTSI_Poster_presentation_monitor_37_final.pdf
   - ENTRYTYPE: journal
-  ID: SunJEB
+  ID: SunJEB2017
   author: Qiang Sun, Yuliang Sun, Kevin Juzenas 
   booktitle: Journal of Experimental Botany
   title: Immunogold scanning electron microscopy can reveal the polysaccharide architecture of xylem cell walls
@@ -100,3 +100,12 @@ interstitial lung disease
   img: 
   other: <font color="red">Received 'RLDC Abstract Travel Award' </font>
   PDF: /pub_post_nonconfid/RLDC_2016_poster.pdf
+- ENTRYTYPE: journal
+  ID: SunPP2013
+  author: Qiang Sun, Yuliang Sun, M. Andrew Walker, John M. Labavitch 
+  booktitle: Plant Physiology
+  title: Vascular Occlusions in Grapevines with Pierce’s Disease Make Disease Symptom Development Worse
+  url: https://academic.oup.com/plphys/article/161/3/1529/6110821
+  img: 
+  year: '2013'
+  PDF: /pub_post_nonconfid/plphys_v161_3_1529.pdf
