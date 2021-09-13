@@ -103,8 +103,13 @@ analytics:
 author:
   name             : "Yuliang Leon Sun"
   avatar           : "/images/bio.jpg"
-  bio              : "MD-PhD Candidate"
-  location         : "Boston University School of Medicine"
+  bio              : "MD-PhD Candidate
+
+  School of Medicine
+
+  Boston University
+  "
+  location         : "Boston, MA"
   email            : "ysun35@bu.edu"
   uri              : "https://yleonsun.com"
   home             : "https://yleonsun.com" # null (default), "absolute or relative url to link to author home"
