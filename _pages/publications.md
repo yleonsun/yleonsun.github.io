@@ -69,7 +69,7 @@ toc_sticky: true
    <div class="img"><a href="https://hdl.handle.net/2144/41103"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
      <div class="title"><a name="YLSPhDdissertation" href="https://hdl.handle.net/2144/41103">THE ROLE OF ATP BINDING CASSETTE A3 (ABCA3) IN HEALTH AND DISEASE USING PLURIPOTENT STEM CELL-DERIVED TYPE II ALVEOLAR EPITHELIAL CELLS</a></div>         
-     <div class="authors">Sun, Yuliang Leon         
+     <div class="authors"><strong>Yuliang Leon Sun</strong>         
      </div>         
      <div>         
        <em>PhD Dissertation, 2020</em> 
@@ -94,6 +94,8 @@ toc_sticky: true
  <br> 
  
        <a class="btn btn--primary btn--small" href="https://www.sciencedirect.com/science/article/pii/S1934590919305272">URL</a>         
+          
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/1-s2.0-S1934590919305272-main.pdf">PDF</a>         
          
      </div>         
    </div>         
