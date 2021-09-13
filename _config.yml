@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zi Wang"
+title                    : "Yuliang Leon Sun"
 title_separator          : "-"
-name                     : &name "Zi Wang"
-description              : "Zi Wang's homepage."
-url                      : https://ziw.mit.edu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yuliang Leon Sun"
+description              : "Yuliang Leon Sun's homepage."
+url                      : https://yleonsun.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -67,7 +67,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 009172248073775589945:zadn1t7jc88 # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : 56401a951f2d84030 # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification : 
@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ziwphd"
+  username               : &twitter "yleonsun"
 facebook:
-  username               : &facebook "ziwang617"
+  username               : &facebook "yuliangleonsun"
   app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -89,9 +89,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/ziwphd"
-    - "https://facebook.com/ziwang617"
-    - "https://www.quora.com/profile/Zi-Wang-21"
+    - "https://twitter.com/yleonsun"
+    - "https://facebook.com/yuliangleonsun"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -104,35 +103,35 @@ analytics:
 author:
   name             : "Zi Wang"
   avatar           : "/images/bio.jpg"
-  bio              : "WFH"
-  location         : "Cambridge, MA"
-  email            : "ziw@mit.edu"
-  uri              : "https://ziw.mit.edu"
-  home             : "https://ziw.mit.edu" # null (default), "absolute or relative url to link to author home"
+  bio              : "MD-PhD Candidate"
+  location         : "Boston University School of Medicine"
+  email            : "ysun35@bu.edu"
+  uri              : "https://yleonsun.com"
+  home             : "https://yleonsun.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "zi-w"
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : "zwyls"
   lastfm           :
-  linkedin         : "wang-zi" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "yleonsun" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           : "ziwphd"
+  tumblr           :
   twitter          : *twitter
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  quora            : Zi-Wang-21
+  quora            :
 
 # Reading Files
 include:
