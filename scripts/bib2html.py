@@ -42,7 +42,11 @@ for i in sorted(by_year.keys(), reverse = True):
         tmp = ''
     else:
       tmp = p['project']
-    p['author'].replace('Zi Wang', '<strong>Zi Wang</strong>')
+    p['author'] = p['author'].replace('Yuliang L Sun', '<strong>Yuliang L Sun</strong>')
+    p['author'] = p['author'].replace('Yuliang L. Sun', '<strong>Yuliang L. Sun</strong>')
+    p['author'] = p['author'].replace('Yuliang Sun', '<strong>Yuliang Sun</strong>')
+    p['author'] = p['author'].replace('Yuliang Leon Sun', '<strong>Yuliang Leon Sun</strong>')
+    p['author'] = p['author'].replace('Sun, Y.L.', '<strong>Sun, Y.L.</strong>')
     f.write('\n \
 <div class="publication">          \n \
   <link rel="stylesheet" href="/assets/css/my.css">         \n \
@@ -61,8 +65,12 @@ for i in sorted(by_year.keys(), reverse = True):
         '.format(p['project']))
     if 'url' in p:
       f.write(' \n \
-      <a class="btn btn--success btn--small" href="{}">PDF</a>         \n \
+      <a class="btn btn--primary btn--small" href="{}">URL</a>         \n \
         '.format(p['url']))
+    if 'PDF' in p:
+      f.write(' \n \
+      <a class="btn btn--success btn--small" href="{}">PDF</a>         \n \
+        '.format(p['PDF']))
     if 'code' in p:
       f.write(' \n \
       <a class="btn btn--warning btn--small" href="{}">Code</a>         \n \

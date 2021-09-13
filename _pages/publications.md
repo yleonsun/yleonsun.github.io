@@ -7,20 +7,93 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
+## 2021
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="SunNon-Submitted" href="None">Disease modeling of childhood interstitial lung disease caused by ABCA3 mutations in iPSC-derived iAEC2s.</a></div>         
+     <div class="authors"><strong>Yuliang L Sun</strong>, Jennifer Wambach, Hillary Heins, Ping Yang, Carlos Villacorta-Martin, Anne Hinds, F Sessions Cole, Darrell N Kotton         
+     </div>         
+     <div>         
+       <em>Manuscript in Preparation, 2021</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC"><img class="img_responsive" src="None"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="SunRedJournal" href="https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC">Heterogeneity in Human iPSC-derived Alveolar Epithelial Type II Cells Revealed with ABCA3/SFTPC Reporters</a></div>         
+     <div class="authors"><strong>Yuliang L Sun</strong>, Killian Hurley, Carlos Villacorta-Martin, Jessie Huang, Anne Hinds, Krithi Gopalan, Ignacio S Caballero, Scott J Russo, Joseph A Kitzmiller, Jeffrey A Whitsett, Michael F Beers, Darrell N Kotton         
+     </div>         
+     <div>         
+       <em>American Jouornal of Respiratory Cell and Molecular Biology, 2021</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC">URL</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="ylsIRdiversity" href="None">Interventional Radiology, Workforce Diversity in North America.</a></div>         
+     <div class="authors">Higgins, MCSS., <strong>Sun, Y.L.</strong>, Rochon, PJ., Deville, C         
+     </div>         
+     <div>         
+       <em>(Submitted book chapter) under review, 2021</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 ## 2020
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/pdf/2006.06444.pdf"><img class="img_responsive" src="/images/pub/ltamp.png"></a></div>         
+   <div class="img"><a href="https://hdl.handle.net/2144/41103"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangIJRR2020" href="https://arxiv.org/pdf/2006.06444.pdf">Learning compositional models of robot skills for task and motion planning</a></div>         
-     <div class="authors">Zi Wang*, Caelan Reed Garrett*, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
+     <div class="title"><a name="YLSPhDdissertation" href="https://hdl.handle.net/2144/41103">THE ROLE OF ATP BINDING CASSETTE A3 (ABCA3) IN HEALTH AND DISEASE USING PLURIPOTENT STEM CELL-DERIVED TYPE II ALVEOLAR EPITHELIAL CELLS</a></div>         
+     <div class="authors">Sun, Yuliang Leon         
      </div>         
      <div>         
-       <em>International Journal of Robotics Research (IJRR), 2020</em> 
+       <em>PhD Dissertation, 2020</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2006.06444.pdf">PDF</a>         
+       <a class="btn btn--primary btn--small" href="https://hdl.handle.net/2144/41103">URL</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="https://www.sciencedirect.com/science/article/pii/S1934590919305272"><img class="img_responsive" src="None"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="KHCellStemCell" href="https://www.sciencedirect.com/science/article/pii/S1934590919305272">Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors. Cell Stem Cell</a></div>         
+     <div class="authors">Hurley, K., Ding, J., Villacorta-Martin, C., Herriges, M.J., Jacob, A., Vedaie, M., Alysandratos, K.D., <strong>Sun, Y.L.</strong>, Lin, C., Werder, R.B., Huang, J., Wilson, A.A., Mithal, A., Mostoslavsky, G., Oglesby, I., Caballero, I.S., Guttentag, S.H., Ahangari, F., Kaminski, N., Rodriguez-Fraticelli, A., Camargo, F., Bar-Joseph, Z., Kotton, D.N         
+     </div>         
+     <div>         
+       <em>Cell Stem Cell, 2020</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="https://www.sciencedirect.com/science/article/pii/S1934590919305272">URL</a>         
          
      </div>         
    </div>         
@@ -30,35 +103,19 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf"><img class="img_responsive" src="/images/pub/spare.png"></a></div>         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="xiaICLR2019" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">Learning sparse relational transition models</a></div>         
-     <div class="authors">Victoria Xia*, Zi Wang*, Kelsey Allen, Tom Silver and Leslie Pack Kaelbling         
+     <div class="title"><a name="PCTC2019" href="None">Using pluripotent stem cell derived AEC2s to model ABCA3 dysfunction in childhood interstitial lung disease</a></div>         
+     <div class="authors"><strong>Yuliang L. Sun</strong>, Jose Carlos Villacorta Martin1, Hillary Heins, Ping Yang, Jennifer Wambach, F Sessions Cole,,and Darrell Kotton         
      </div>         
      <div>         
-       <em>International Conference on Learning Representations (ICLR), 2019</em> 
+       <em>(Poster) Progenitor Cell Translational Consortium (PCTC) 2019 meeting, Boston, MA, 2019</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/xia-iclr19.pdf">PDF</a>         
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
          
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/pdf/1807.09962.pdf"><img class="img_responsive" src="/images/pub/score.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="kimIJRR2019" href="https://arxiv.org/pdf/1807.09962.pdf">Learning to guide task and motion planning using score-space representation</a></div>         
-     <div class="authors">Beomjoon Kim, Zi Wang, Leslie Pack Kaelbling, Tomás Lozano-Pérez         
-     </div>         
-     <div>         
-       <em>International Journal of Robotics Research (IJRR), 2019</em> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/1807.09962.pdf">PDF</a>         
-         
+       <a class="btn btn--danger btn--small" href="None">Poster</a>         
+       
      </div>         
    </div>         
  </div> 
@@ -67,70 +124,22 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/meta_bo"><img class="img_responsive" src="/images/pub/noprior.png"></a></div>         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangNIPS2018" href="/meta_bo">Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior</a></div>         
-     <div class="authors">Zi Wang*, Beomjoon Kim* and Leslie Pack Kaelbling         
+     <div class="title"><a name="PCTC2018" href="None">PSC-derived AEC2 Model to Study Noormal and Diseased ABCA3 Function in childhood interstitial lung disease</a></div>         
+     <div class="authors"><strong>Yuliang L. Sun</strong>, Jose Carlos Villacorta Martin1, Hillary Heins, Ping Yang, Jennifer Wambach, F Sessions Cole,,and Darrell Kotton         
      </div>         
      <div>         
-       <em>Advances in Neural Information Processing Systems (NIPS), 2018</em> 
+       <em>(Poster) Progenitor Cell Translational Consortium (PCTC) 2018 meeting, New York City, NY, 2018</em> 
  <br> 
 
- <font color="red">Spotlight talk</font> (3.5% acceptance rate) 
+ <font color="red">Received 'Outstanding Poster Presentation award' </font> 
  <br> 
  
-       <a class="btn btn--primary btn--small" href="/meta_bo">Project page</a>         
-          
-       <a class="btn btn--success btn--small" href="/pub/meta_bo/main.pdf">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/beomjoonkim/MetaLearnBO">Code</a>         
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
          
-       <a class="btn btn--danger btn--small" href="/pub/meta_bo/poster.pdf">Poster</a>         
+       <a class="btn btn--danger btn--small" href="None">Poster</a>         
        
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/projects/kitchen2d"><img class="img_responsive" src="/images/pub/kitchen2d.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="wangIROS2018" href="/projects/kitchen2d">Active model learning and diverse action sampling for task and motion planning</a></div>         
-     <div class="authors">Zi Wang, Caelan Reed Garrett, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
-     </div>         
-     <div>         
-       <em>International Conference on Intelligent Robots and Systems (IROS), 2018</em> 
- <br> 
- 
-       <a class="btn btn--primary btn--small" href="/projects/kitchen2d">Project page</a>         
-          
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-iros18.pdf">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/zi-w/Kitchen2D">Code</a>         
-         
-       <a class="btn btn--info btn--small" href="/pub/ltamp/index.html">Slides</a>         
-       
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf"><img class="img_responsive" src="/images/pub/9.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="wangAISTATS2018" href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf">Batched Large-scale Bayesian Optimization in High-dimensional Spaces</a></div>         
-     <div class="authors">Zi Wang, Clement Gehring, Pushmeet Kohli and Stefanie Jegelka         
-     </div>         
-     <div>         
-       <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2018</em> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-aistats18.pdf">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/zi-w/Ensemble-Bayesian-Optimization">Code</a>         
-         
      </div>         
    </div>         
  </div> 
@@ -139,21 +148,19 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/projects/mlp"><img class="img_responsive" src="/images/pub/6.png"></a></div>         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangICRA17" href="/projects/mlp">Focused Model-Learning and Planning for Non-Gaussian Continuous State-Action Systems</a></div>         
-     <div class="authors">Zi Wang, Stefanie Jegelka, Leslie Pack Kaelbling and Tomás Lozano-Pérez         
+     <div class="title"><a name="ISSCR2017" href="None">Using chILDpatient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro</a></div>         
+     <div class="authors"><strong>Yuliang L. Sun</strong>, Anjali Jacob,Jyn-Chang Jean, Anusha Sridharan, Jeffery Whitsett, and Darrell Kotton         
      </div>         
      <div>         
-       <em>IEEE Conference on Robotics and Automation (ICRA), 2017</em> 
+       <em>(Poster) International Society of Stem Cell Research (ISSCR), Boston MA, 2017</em> 
  <br> 
  
-       <a class="btn btn--primary btn--small" href="/projects/mlp">Project page</a>         
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
           
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-icra17.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/YLS_ISSCR_2017_poster_36X36.pdf">PDF</a>         
          
-       <a class="btn btn--info btn--small" href="https://www.icloud.com/keynote/0SYOebCF3GXhkYjnf0Q0Jn5Uw#talk">Slides</a>         
-       
      </div>         
    </div>         
  </div> 
@@ -161,21 +168,19 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf"><img class="img_responsive" src="/images/pub/7.png"></a></div>         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangICML2017b" href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf">Max-value Entropy Search for Efficient Bayesian Optimization</a></div>         
-     <div class="authors">Zi Wang and Stefanie Jegelka         
+     <div class="title"><a name="CTSI2017" href="None">Using chILD patient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro</a></div>         
+     <div class="authors"><strong>Yuliang L. Sun</strong>, Anjali Jacob,Jyn-Chang Jean, Anusha Sridharan, Jeffery Whitsett, and Darrell Kotton         
      </div>         
      <div>         
-       <em>International Conference on Machine Learning (ICML), 2017</em> 
+       <em>(Poster) Clinical and Translational Science Institute, Boston University, Boston, MA, 2017</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-icml17b.pdf">PDF</a>         
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
           
-       <a class="btn btn--warning btn--small" href="https://github.com/zi-w/Max-value-Entropy-Search">Code</a>         
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/Yuliang_Sun_CTSI_Poster_presentation_monitor_37_final.pdf">PDF</a>         
          
-       <a class="btn btn--info btn--small" href="https://www.icloud.com/keynote/0FxhBnGLGBPCopqQH_v8xF_Vw#maxvalue">Slides</a>         
-       
      </div>         
    </div>         
  </div> 
@@ -183,21 +188,19 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf"><img class="img_responsive" src="/images/pub/8.png"></a></div>         
+   <div class="img"><a href="https://academic.oup.com/jxb/article/68/9/2231/3192174"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wangICML2017a" href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf">Batched High-dimensional Bayesian Optimization via Structural Kernel Learning</a></div>         
-     <div class="authors">Zi Wang*, Chengtao Li*, Stefanie Jegelka and Pushmeet Kohli         
+     <div class="title"><a name="SunJEB2017" href="https://academic.oup.com/jxb/article/68/9/2231/3192174">Immunogold scanning electron microscopy can reveal the polysaccharide architecture of xylem cell walls</a></div>         
+     <div class="authors">Qiang Sun, <strong>Yuliang Sun</strong>, Kevin Juzenas         
      </div>         
      <div>         
-       <em>International Conference on Machine Learning (ICML), 2017</em> 
+       <em>Journal of Experimental Botany, 2017</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-icml17a.pdf">PDF</a>         
+       <a class="btn btn--primary btn--small" href="https://academic.oup.com/jxb/article/68/9/2231/3192174">URL</a>         
           
-       <a class="btn btn--warning btn--small" href="https://github.com/zi-w/Structural-Kernel-Learning-for-HDBBO">Code</a>         
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/JEB2017.pdf">PDF</a>         
          
-       <a class="btn btn--info btn--small" href="https://www.icloud.com/keynote/0LBVoOAXm9JJIzgKlqpjrQThA#skl">Slides</a>         
-       
      </div>         
    </div>         
  </div> 
@@ -206,70 +209,22 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/projects/gp-est"><img class="img_responsive" src="/images/pub/5.png"></a></div>         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="wang-aistats16" href="/projects/gp-est">Optimization as Estimation with {G}aussian Processes in Bandit Settings</a></div>         
-     <div class="authors">Zi Wang, Bolei Zhou and Stefanie Jegelka         
+     <div class="title"><a name="RLDC2016" href="None">Using chILD patient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro</a></div>         
+     <div class="authors"><strong>Yuliang Sun</strong>, Anjali Jacob, and Darrell Kotton         
      </div>         
      <div>         
-       <em>International Conference on Artificial Intelligence and Statistics (AISTATS), 2016</em> 
+       <em>(Poster) Rare Lung Diseases Consortium, Cincinnati, OH, 2016</em> 
  <br> 
 
- <font color="red">Oral</font> (6% acceptance rate) 
+ <font color="red">Received 'RLDC Abstract Travel Award' </font> 
  <br> 
  
-       <a class="btn btn--primary btn--small" href="/projects/gp-est">Project page</a>         
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
           
-       <a class="btn btn--success btn--small" href="http://lis.csail.mit.edu/pubs/wang-aistats16.pdf">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="https://github.com/zi-w/GP-EST">Code</a>         
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/RLDC_2016_poster.pdf">PDF</a>         
          
-       <a class="btn btn--info btn--small" href="/pub/gpest_slides.pdf">Slides</a>         
-       
-     </div>         
-   </div>         
- </div> 
- <br>
-## 2014
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf"><img class="img_responsive" src="/images/pub/3.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="lu_nipspos_2014" href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf">Fast Learning with Noise in Deep Neural Nets</a></div>         
-     <div class="authors">Zhiyun Lu*, Zi Wang* and Fei Sha         
-     </div>         
-     <div>         
-       <em>NIPS Workshop: Perturbations, Optimization, and Statistics, 2014</em> 
- <br> 
-
- <font color="red">Spotlight talk</font> 
- <br> 
- 
-       <a class="btn btn--success btn--small" href="https://pdfs.semanticscholar.org/98c6/8c4b107c706004ae47ab781600d0441ead42.pdf">PDF</a>         
-         
-     </div>         
-   </div>         
- </div> 
- <br>
-
- <div class="publication">          
-   <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/projects/dnmf"><img class="img_responsive" src="/images/pub/1.png"></a></div>         
-   <div class="text">         
-     <div class="title"><a name="wang_icassp_2014" href="/projects/dnmf">Discriminative Non-Negative Matrix Factorization for Single-Channel Speech Separation</a></div>         
-     <div class="authors">Zi Wang and Fei Sha         
-     </div>         
-     <div>         
-       <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014</em> 
- <br> 
- 
-       <a class="btn btn--primary btn--small" href="/projects/dnmf">Project page</a>         
-          
-       <a class="btn btn--success btn--small" href="https://ieeexplore.ieee.org/document/6854302/">PDF</a>         
-         
-       <a class="btn btn--danger btn--small" href="/projects/dnmf/wiml.pdf">Poster</a>         
-       
      </div>         
    </div>         
  </div> 
@@ -278,23 +233,19 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="/projects/gctm"><img class="img_responsive" src="/images/pub/2.png"></a></div>         
+   <div class="img"><a href="https://academic.oup.com/plphys/article/161/3/1529/6110821"><img class="img_responsive" src="None"></a></div>         
    <div class="text">         
-     <div class="title"><a name="chen_nips_2013" href="/projects/gctm">Scalable Inference for Logistic-Normal Topic Models</a></div>         
-     <div class="authors">Jianfei Chen, Jun Zhu, Zi Wang, Xun Zheng and Bo Zhang         
+     <div class="title"><a name="SunPP2013" href="https://academic.oup.com/plphys/article/161/3/1529/6110821">Vascular Occlusions in Grapevines with Pierce’s Disease Make Disease Symptom Development Worse</a></div>         
+     <div class="authors">Qiang Sun, <strong>Yuliang Sun</strong>, M. Andrew Walker, John M. Labavitch         
      </div>         
      <div>         
-       <em>Advances in Neural Information Processing Systems (NIPS), 2013</em> 
+       <em>Plant Physiology, 2013</em> 
  <br> 
  
-       <a class="btn btn--primary btn--small" href="/projects/gctm">Project page</a>         
+       <a class="btn btn--primary btn--small" href="https://academic.oup.com/plphys/article/161/3/1529/6110821">URL</a>         
           
-       <a class="btn btn--success btn--small" href="http://papers.nips.cc/paper/4981-scalable-inference-for-logistic-normal-topic-models">PDF</a>         
-          
-       <a class="btn btn--warning btn--small" href="http://ml-thu.net/~jianfei/static/ScaCTM.tar.gz">Code</a>         
+       <a class="btn btn--success btn--small" href="/pub_post_nonconfid/plphys_v161_3_1529.pdf">PDF</a>         
          
-       <a class="btn btn--danger btn--small" href="/projects/gctm/scalablectm_nips.pdf">Poster</a>         
-       
      </div>         
    </div>         
  </div> 

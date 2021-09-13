@@ -30,7 +30,7 @@
   url: https://hdl.handle.net/2144/41103
   img: 
   year: '2020'
-  - ENTRYTYPE: journal
+- ENTRYTYPE: journal
   ID: KHCellStemCell
   author: Hurley, K., Ding, J., Villacorta-Martin, C., Herriges, M.J., Jacob, A., Vedaie, M., Alysandratos, K.D., Sun, Y.L., Lin, C., Werder, R.B., Huang, J., Wilson, A.A., Mithal, A., Mostoslavsky, G., Oglesby, I., Caballero, I.S., Guttentag, S.H., Ahangari, F., Kaminski, N., Rodriguez-Fraticelli, A., Camargo, F., Bar-Joseph, Z., Kotton, D.N
   booktitle: Cell Stem Cell
@@ -44,8 +44,7 @@
   author: Yuliang L. Sun, Jose Carlos Villacorta Martin1, Hillary Heins, Ping Yang, Jennifer Wambach, F Sessions Cole,,and Darrell Kotton
   booktitle: (Poster) Progenitor Cell Translational Consortium (PCTC) 2019 meeting, Boston, MA
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, CRISPRCas9, gene editing, regenerative medicine, ABCA3
-  title: Using pluripotent stem cell derived AEC2s to model ABCA3 dysfunction in childhood
-interstitial lung disease
+  title: Using pluripotent stem cell derived AEC2s to model ABCA3 dysfunction in childhood interstitial lung disease
   url: 
   img: 
   year: '2019'
@@ -81,7 +80,7 @@ interstitial lung disease
   year: '2017' 
   img: 
   PDF: /pub_post_nonconfid/Yuliang_Sun_CTSI_Poster_presentation_monitor_37_final.pdf
-  - ENTRYTYPE: journal
+- ENTRYTYPE: journal
   ID: SunJEB2017
   author: Qiang Sun, Yuliang Sun, Kevin Juzenas 
   booktitle: Journal of Experimental Botany
