@@ -14,7 +14,7 @@ toc_sticky: true
    <div class="img"><a href=""><img class="img_responsive" src="/images/pub/hold.png"></a></div>         
    <div class="text">         
      <div class="title"><a name="SunNon-Submitted2022" href="">Diversity and Inclusion in Interventional Radiology</a></div>         
-     <div class="authors">Sun, Y.L, Higgins, MCSS.         
+     <div class="authors"><strong>Sun, Y.L.</strong>, Higgins, MCSS.         
      </div>         
      <div>         
        <em>Invited review article; manuscript in preparation, 2022</em> 
