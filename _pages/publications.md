@@ -7,7 +7,25 @@ toc: true
 toc_label: "Publication List" 
 toc_sticky: true 
 ---
-## 2021
+## 2022
+
+ <div class="publication">          
+   <link rel="stylesheet" href="/assets/css/my.css">         
+   <div class="img"><a href="None"><img class="img_responsive" src="None"></a></div>         
+   <div class="text">         
+     <div class="title"><a name="SunNon-Submitted2022" href="None">Diversity and Inclusion in Interventional Radiology</a></div>         
+     <div class="authors">Sun, Y.L, Higgins, MCSS.         
+     </div>         
+     <div>         
+       <em>Invited review article; manuscript in preparation, 2022</em> 
+ <br> 
+ 
+       <a class="btn btn--primary btn--small" href="None">URL</a>         
+         
+     </div>         
+   </div>         
+ </div> 
+ <br>
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
@@ -17,7 +35,7 @@ toc_sticky: true
      <div class="authors"><strong>Yuliang L Sun</strong>, Jennifer Wambach, Hillary Heins, Ping Yang, Carlos Villacorta-Martin, Anne Hinds, F Sessions Cole, Darrell N Kotton         
      </div>         
      <div>         
-       <em>Manuscript in Preparation, 2021</em> 
+       <em>Manuscript in Preparation, 2022</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="None">URL</a>         
@@ -35,7 +53,7 @@ toc_sticky: true
      <div class="authors"><strong>Yuliang L Sun</strong>, Killian Hurley, Carlos Villacorta-Martin, Jessie Huang, Anne Hinds, Krithi Gopalan, Ignacio S Caballero, Scott J Russo, Joseph A Kitzmiller, Jeffrey A Whitsett, Michael F Beers, Darrell N Kotton         
      </div>         
      <div>         
-       <em>American Jouornal of Respiratory Cell and Molecular Biology, 2021</em> 
+       <em>American Jouornal of Respiratory Cell and Molecular Biology, 2022</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC">URL</a>         
@@ -44,6 +62,7 @@ toc_sticky: true
    </div>         
  </div> 
  <br>
+## 2021
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
@@ -53,7 +72,7 @@ toc_sticky: true
      <div class="authors">Higgins, MCSS., <strong>Sun, Y.L.</strong>, Rochon, PJ., Deville, C         
      </div>         
      <div>         
-       <em>(Submitted book chapter) under review, 2021</em> 
+       <em>Published by Springer Nature Publishing, 2021</em> 
  <br> 
  
        <a class="btn btn--primary btn--small" href="None">URL</a>         

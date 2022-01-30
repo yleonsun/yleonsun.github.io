@@ -10,6 +10,7 @@ Hello! My name is Leon, and I am a MD-PhD candidate at the Boston University Sch
 
 
 ### News
+- [Sep, 2021] Enjoyed giving the talk on 'Case of visceral arterial aneurysm embolization' at the inaugural [New England Society of Interventional Radiology (NESIR) meeting](https://nesir.org/)
 - [Sep, 2021] Excited to attend the [Radiology Interventions Safety, Quality, and Complications Symposium (RISQCS)](https://www.bucme.org/live/12827) to learn about how learning from complications can save patient lives in the field of interventional radiology.
 - [Aug, 2021] Honored to receive the 'Radiology Research Fellowship' at Boston University School of Medicine to research obstacles for ethnic, racial, gender diversity and inclusion in interventional radiology!
 - [Aug, 2021] [Paper accepted at American Journal of Respiratory Cell and Molecular Biology](https://doi.org/10.1165/rcmb.2020-0259OC). It's a pleasure to share a part of my PhD dissertation work with the scientific community. titled, “Heterogeneity in Human iPSC-derived Alveolar Epithelial Type II Cells Revealed with ABCA3/SFTPC Reporters.” Thank you to all the wonderful collaborators over the years who made this possible! There is more to come!
@@ -36,5 +37,5 @@ Hello! My name is Leon, and I am a MD-PhD candidate at the Boston University Sch
 
 
 ### Contact
-Email: ysun35 'at' bu.edu
+Email: ysun35@bu.edu
 

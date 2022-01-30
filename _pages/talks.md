@@ -4,6 +4,7 @@ permalink: /talks/
 author_profile: true
 layout: single_noauthor 
 ---
+- [Sep 20, 2021] Case of visceral arterial aneurysm embolization. @ New England Society of Interventional Radiology meeting, Boston, MA. Slides available upon request.
 - [Feb 25, 2020] Using PSC-derived type II pneumocytes to study lung in health and disease @ Center for Regenerative Medicine Seminar, Boston, MA. Slides available upon request.
 - [Oct 2, 2019] Modeling Childhood Interstitial Lung Disease Using Patient iPSC-derived Lung Epithelial Cells, Blitz talk @ Department of Medicine, Evans Days, Boston, MA. Slides available upon request.
 - [May 14, 2019] Using PSC-derived iAEC2 to model chILD caused by ABCA3 mutations @ Center for Regenerative Medicine Seminar, Boston, MA. Slides available upon request.
