@@ -3,16 +3,14 @@
   author: Sun, Y.L, Higgins, MCSS. 
   booktitle: Invited review article; manuscript in preparation
   title: Diversity and Inclusion in Interventional Radiology
-  url: 
-  img: 
+  img: /images/pub/hold.png
   year: '2022'
 - ENTRYTYPE: journal
   ID: SunNon-Submitted
   author: Yuliang L Sun, Jennifer Wambach, Hillary Heins, Ping Yang, Carlos Villacorta-Martin, Anne Hinds, F Sessions Cole, Darrell N Kotton
-  booktitle: Manuscript in Preparation
+  booktitle: Manuscript in preparation
   title: Disease modeling of childhood interstitial lung disease caused by ABCA3 mutations in iPSC-derived iAEC2s.
-  url: 
-  img: 
+  img: /images/pub/hold.png
   year: '2022'
 - ENTRYTYPE: journal
   ID: SunRedJournal
@@ -20,15 +18,14 @@
   booktitle: American Jouornal of Respiratory Cell and Molecular Biology
   title: Heterogeneity in Human iPSC-derived Alveolar Epithelial Type II Cells Revealed with ABCA3/SFTPC Reporters
   url: https://www.atsjournals.org/doi/abs/10.1165/rcmb.2020-0259OC
-  img: 
-  year: '2022'
+  img: /images/pub/hold.png
+  year: '2021'
 - ENTRYTYPE: BookChapter
   ID: ylsIRdiversity
   author: Higgins, MCSS., Sun, Y.L., Rochon, PJ., Deville, C
   booktitle: Published by Springer Nature Publishing
   title: Interventional Radiology, Workforce Diversity in North America.
-  url: 
-  img: 
+  img: /images/pub/hold.png
   year: '2021'
 - ENTRYTYPE: PhDdissertation
   ID: YLSPhDdissertation
@@ -36,7 +33,7 @@
   booktitle: PhD Dissertation
   title: THE ROLE OF ATP BINDING CASSETTE A3 (ABCA3) IN HEALTH AND DISEASE USING PLURIPOTENT STEM CELL-DERIVED TYPE II ALVEOLAR EPITHELIAL CELLS
   url: https://hdl.handle.net/2144/41103
-  img: 
+  img: /images/pub/hold.png
   year: '2020'
 - ENTRYTYPE: journal
   ID: KHCellStemCell
@@ -44,7 +41,7 @@
   booktitle: Cell Stem Cell
   title: Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors. Cell Stem Cell
   url: https://www.sciencedirect.com/science/article/pii/S1934590919305272
-  img: 
+  img: /images/pub/hold.png
   year: '2020'
   PDF: /pub_post_nonconfid/1-s2.0-S1934590919305272-main.pdf
 - ENTRYTYPE: poster
@@ -53,20 +50,16 @@
   booktitle: (Poster) Progenitor Cell Translational Consortium (PCTC) 2019 meeting, Boston, MA
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, CRISPRCas9, gene editing, regenerative medicine, ABCA3
   title: Using pluripotent stem cell derived AEC2s to model ABCA3 dysfunction in childhood interstitial lung disease
-  url: 
-  img: 
+  img: /images/pub/hold.png
   year: '2019'
-  poster: 
 - ENTRYTYPE: poster
   ID: PCTC2018
   author: Yuliang L. Sun, Jose Carlos Villacorta Martin1, Hillary Heins, Ping Yang, Jennifer Wambach, F Sessions Cole,,and Darrell Kotton
   booktitle: (Poster) Progenitor Cell Translational Consortium (PCTC) 2018 meeting, New York City, NY
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, CRISPRCas9, gene editing, regenerative medicine, ABCA3
   title: PSC-derived AEC2 Model to Study Noormal and Diseased ABCA3 Function in childhood interstitial lung disease
-  url: 
-  img: 
+  img: /images/pub/hold.png
   year: '2018'
-  poster: 
   other: <font color="red">Received 'Outstanding Poster Presentation award' </font>
 - ENTRYTYPE: poster
   ID: ISSCR2017
@@ -74,9 +67,8 @@
   booktitle: (Poster) International Society of Stem Cell Research (ISSCR), Boston MA
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, CRISPRCas9, gene editing, regenerative medicine, ABCA3
   title: Using chILDpatient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro
-  url:
   year: '2017' 
-  img: 
+  img: /images/pub/hold.png
   PDF: /pub_post_nonconfid/YLS_ISSCR_2017_poster_36X36.pdf
 - ENTRYTYPE: poster
   ID: CTSI2017
@@ -84,9 +76,8 @@
   booktitle: (Poster) Clinical and Translational Science Institute, Boston University, Boston, MA
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, CRISPRCas9, gene editing, regenerative medicine, ABCA3
   title: Using chILD patient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro
-  url:
   year: '2017' 
-  img: 
+  img: /images/pub/hold.png
   PDF: /pub_post_nonconfid/Yuliang_Sun_CTSI_Poster_presentation_monitor_37_final.pdf
 - ENTRYTYPE: journal
   ID: SunJEB2017
@@ -94,7 +85,7 @@
   booktitle: Journal of Experimental Botany
   title: Immunogold scanning electron microscopy can reveal the polysaccharide architecture of xylem cell walls
   url: https://academic.oup.com/jxb/article/68/9/2231/3192174
-  img: 
+  img: /images/pub/hold.png
   year: '2017'
   PDF: /pub_post_nonconfid/JEB2017.pdf
 - ENTRYTYPE: poster
@@ -103,9 +94,8 @@
   booktitle: (Poster) Rare Lung Diseases Consortium, Cincinnati, OH
   keywords: stem cell, disease modeling, alveolar epithelial type II cell, regenerative medicine, ABCA3
   title: Using chILD patient-derived induced pluripotent stem cells to model ABCA3 dysfunction in vitro
-  url:
   year: '2016' 
-  img: 
+  img: /images/pub/hold.png
   other: <font color="red">Received 'RLDC Abstract Travel Award' </font>
   PDF: /pub_post_nonconfid/RLDC_2016_poster.pdf
 - ENTRYTYPE: journal
@@ -114,6 +104,6 @@
   booktitle: Plant Physiology
   title: Vascular Occlusions in Grapevines with Pierce’s Disease Make Disease Symptom Development Worse
   url: https://academic.oup.com/plphys/article/161/3/1529/6110821
-  img: 
+  img: /images/pub/hold.png
   year: '2013'
   PDF: /pub_post_nonconfid/plphys_v161_3_1529.pdf
