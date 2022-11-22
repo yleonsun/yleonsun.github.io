@@ -5,11 +5,12 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Leon, and I am a Medical Resident at Mass General Brigham, and an incoming Radiology Resident at Beth Israel Deaconess Medical Center (BIDMC) in Boston.
+Hello! My name is Leon, and I am a Medical Resident at Mass General Hospital (MGH), and an incoming Radiology Resident at Beth Israel Deaconess Medical Center (BIDMC) in Boston.
 
 
 
 ### News
+- [Jun, 2022] Started Internal Medicine Residency at Mass General Hospital.
 - [Sep, 2021] Enjoyed giving the talk on 'Case of visceral arterial aneurysm embolization' at the [New England Society of Interventional Radiology (NESIR) meeting](https://nesir.org/).
 - [Sep, 2021] Excited to attend the [Radiology Interventions Safety, Quality, and Complications Symposium (RISQCS)](https://www.bucme.org/live/12827) to learn about how learning from complications can save patient lives in the field of interventional radiology.
 - [Aug, 2021] Honored to receive the 'Radiology Research Fellowship' at Boston University School of Medicine to research obstacles for ethnic, racial, gender diversity and inclusion in interventional radiology!
