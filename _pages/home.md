@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! My name is Leon, and I am a MD-PhD candidate at the Boston University School of Medicine interested in pursuing a career as a physician scientist in the field of interventional radiology.
+Hello! My name is Leon, and I am a Medical Resident at Mass General Brigham, and an incoming Radiology Resident at Beth Israel Deaconess Medical Center (BIDMC) in Boston.
 
 
 

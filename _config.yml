@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuliang Leon Sun"
+  name             : "Yuliang Leon Sun, M.D., Ph.D."
   avatar           : "/images/bio.jpg"
-  bio              : "MD-PhD Candidate <br>School of Medicine <br>Boston University"
+  bio              : "Medical Resident <br>Mass General Brigham"
   location         : "Boston, MA"
-  email            : "ysun35@bu.edu"
+  email            : "yuliangleonsun@gmail.com"
   uri              : "https://yleonsun.com"
   home             : "https://yleonsun.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
